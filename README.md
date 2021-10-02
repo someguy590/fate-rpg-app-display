@@ -1,5 +1,14 @@
-# fate-rpg-app-display
+# Fate RPG APP
 Showing off my Fate RPG App! Roll fudge dice and create Fate Core, Accelerated, and Condensed characters!
+
+<div>
+  <img src="/img/dice_roller.jpg" width=25% alt="Dice roller"/>
+  <img src="/img/character_options.jpg" width=25% alt="Character options"/>
+  <img src="/img/load_characters.jpg" width=25% alt="Load characters"/>
+  <img src="/img/Rob_the_Gob.jpg" width=25% alt="Rob the Gob, a character"/>
+  <img src="/img/skills_and_stress_(Core).jpg" width=25% alt="Skills and stress (Core)"/>
+  <img src="/img/skills_and_stress_(Condensed).jpg" width=25% alt="Skills and stress (Condensed)"/>
+</div>
 
 Fate RPG App © 2021
 
