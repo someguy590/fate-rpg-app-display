@@ -1,5 +1,5 @@
 # Fate RPG APP
-Showing off my Fate RPG App! Roll fudge dice and create Fate Core, Accelerated, and Condensed characters!
+Showing off my Fate RPG App! Roll fudge dice, create, and save Fate Core, Accelerated, and Condensed characters!
 
 <div>
   <img src="/img/dice_roller.jpg" width=25% alt="Dice roller"/>
