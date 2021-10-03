@@ -10,6 +10,8 @@ Showing off my Fate RPG App! Roll fudge dice, create, and save Fate Core, Accele
   <img src="/img/skills_and_stress_(Condensed).jpg" width=25% alt="Skills and stress (Condensed)"/>
 </div>
 
+[Check it out on itch.io!](https://someguy590.itch.io/fate-rpg-app)
+
 Fate RPG App © 2021
 
 Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.
