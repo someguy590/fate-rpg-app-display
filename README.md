@@ -10,9 +10,8 @@ Showing off my Fate RPG App! Roll fudge dice, create, and save Fate Core, Accele
   <img src="/img/skills_and_stress_(Condensed).jpg" width=25% alt="Skills and stress (Condensed)"/>
 </div>
 
-<a href='https://play.google.com/store/apps/details?id=com.someguy590.faterpgapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-
-<a href="https://someguy590.itch.io/fate-rpg-app">Fate RPG App by someguy590</a>
+<a href='https://play.google.com/store/apps/details?id=com.someguy590.faterpgapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="50%"/></a>
+<a href='https://someguy590.itch.io/fate-rpg-app'><img alt='Fate RPG App by someguy590' src='/img/itch_badge.png' width="50%"/></a>
 
 Fate RPG App © 2021
 
